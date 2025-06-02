@@ -1,6 +1,4 @@
-English version 
 
-```markdown
 # Bash Script for Creating a New User with SSH Access
 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![SSH](https://img.shields.io/badge/-SSH-67A1D6?logo=ssh&logoColor=white)
@@ -66,7 +64,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <p align="center">
   Created with ❤️ for easier Linux server administration
 </p>
-```
+
 
 
  ####################################################################################
